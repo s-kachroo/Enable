@@ -34,7 +34,7 @@ https://devfolio.co/submissions/enable
 ### Snapshots - ENABLE
 
 ##### 1. Speech To Braille
-<img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/bfedfa89e30645b68a7145c312d3da12/projects/38ba2f4b826e42a68f3ece4c5be0684e/picfxtquvsd5.png" width="500"> 
+<img src="http://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/bfedfa89e30645b68a7145c312d3da12/projects/38ba2f4b826e42a68f3ece4c5be0684e/picfxtquvsd5.png" width="500"> 
 
 ##### 2. Speech To Sign
 <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/bfedfa89e30645b68a7145c312d3da12/projects/38ba2f4b826e42a68f3ece4c5be0684e/picos6ueyx61.png" width="500"> 
